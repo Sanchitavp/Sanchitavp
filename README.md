@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanchitavp
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ...AI & ML
-- 💞️ I’m looking to collaborate on ...ML 
+- 👀 Enthusiased devops proffessional
+- 🌱 Kubernetes, jenkins,
+- 💞️ I’m looking to collaborate on ...AWS 
 - 📫 How to reach me ... Sanchita.P51994@gmail.com
 
 <!---
